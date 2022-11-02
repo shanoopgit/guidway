@@ -1,0 +1,44 @@
+.location{
+	   		 height: 50px;
+   			 width: 25%;
+}
+.date{
+	height: 50px;
+	width: 20%;
+}
+.room{
+	height: 50px;
+	width: 15%;
+}
+.button_1{
+	height: 50px;
+	width: 160px;
+	border: none;
+	color: #ffff;
+	background-color: #1ab64f;
+}
+.side1{
+		border-right: 1px solid #367abd;
+}
+.find{
+	color: #d62121;
+}
+.title{
+	font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #222;
+}
+.amt{
+	font-size: 30px;
+    font-weight: 600;
+    color: #d62121;
+}
+.booking_button{
+	height: 40px;
+	width: 140px;
+	border: none;
+	color: #ffff;
+	background-color: #1ab64f;
+	letter-spacing: 1px;
+}
